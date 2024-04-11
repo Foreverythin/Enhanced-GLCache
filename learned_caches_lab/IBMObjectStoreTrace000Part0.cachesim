@@ -1,0 +1,143 @@
+../data/IBMObjectStoreTrace000Part0 LRU cache size     1GiB,         45822733 req, miss ratio 0.1115, throughput 2.14 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LRU cache size     2GiB,         45822733 req, miss ratio 0.1061, throughput 2.42 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LRU cache size     4GiB,         45822733 req, miss ratio 0.1012, throughput 2.14 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LRU cache size     8GiB,         45822733 req, miss ratio 0.0963, throughput 2.42 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LRU cache size    12GiB,         45822733 req, miss ratio 0.0932, throughput 2.42 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LRU cache size    16GiB,         45822733 req, miss ratio 0.0912, throughput 2.43 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LRU cache size    24GiB,         45822733 req, miss ratio 0.0893, throughput 2.43 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LRU cache size    32GiB,         45822733 req, miss ratio 0.0883, throughput 2.42 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LFU cache size     1GiB,         45822733 req, miss ratio 0.1677, throughput 1.87 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LFU cache size     2GiB,         45822733 req, miss ratio 0.1656, throughput 1.89 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LFU cache size     4GiB,         45822733 req, miss ratio 0.1654, throughput 1.89 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LFU cache size     8GiB,         45822733 req, miss ratio 0.1651, throughput 1.86 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LFU cache size    12GiB,         45822733 req, miss ratio 0.1645, throughput 1.87 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LFU cache size    16GiB,         45822733 req, miss ratio 0.1644, throughput 1.83 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LFU cache size    24GiB,         45822733 req, miss ratio 0.1642, throughput 1.84 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LFU cache size    32GiB,         45822733 req, miss ratio 0.1640, throughput 1.81 MQPS
+
+../data/IBMObjectStoreTrace000Part0 FIFO cache size     1GiB,         45822733 req, miss ratio 0.1111, throughput 2.45 MQPS
+
+../data/IBMObjectStoreTrace000Part0 FIFO cache size     2GiB,         45822733 req, miss ratio 0.1064, throughput 2.44 MQPS
+
+../data/IBMObjectStoreTrace000Part0 FIFO cache size     4GiB,         45822733 req, miss ratio 0.1016, throughput 2.43 MQPS
+
+../data/IBMObjectStoreTrace000Part0 FIFO cache size     8GiB,         45822733 req, miss ratio 0.0965, throughput 2.40 MQPS
+
+../data/IBMObjectStoreTrace000Part0 FIFO cache size    12GiB,         45822733 req, miss ratio 0.0929, throughput 2.43 MQPS
+
+../data/IBMObjectStoreTrace000Part0 FIFO cache size    16GiB,         45822733 req, miss ratio 0.0913, throughput 2.41 MQPS
+
+../data/IBMObjectStoreTrace000Part0 FIFO cache size    24GiB,         45822733 req, miss ratio 0.0894, throughput 2.43 MQPS
+
+../data/IBMObjectStoreTrace000Part0 FIFO cache size    32GiB,         45822733 req, miss ratio 0.0888, throughput 2.43 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Clock cache size     1GiB,         45822733 req, miss ratio 0.1113, throughput 2.43 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Clock cache size     2GiB,         45822733 req, miss ratio 0.1063, throughput 2.39 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Clock cache size     4GiB,         45822733 req, miss ratio 0.1013, throughput 2.42 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Clock cache size     8GiB,         45822733 req, miss ratio 0.0963, throughput 2.42 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Clock cache size    12GiB,         45822733 req, miss ratio 0.0934, throughput 2.40 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Clock cache size    16GiB,         45822733 req, miss ratio 0.0911, throughput 2.42 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Clock cache size    24GiB,         45822733 req, miss ratio 0.0896, throughput 2.39 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Clock cache size    32GiB,         45822733 req, miss ratio 0.0885, throughput 2.41 MQPS
+
+../data/IBMObjectStoreTrace000Part0 TwoQ cache size     1GiB,         45822733 req, miss ratio 0.1147, throughput 2.32 MQPS
+
+../data/IBMObjectStoreTrace000Part0 TwoQ cache size     2GiB,         45822733 req, miss ratio 0.1069, throughput 2.32 MQPS
+
+../data/IBMObjectStoreTrace000Part0 TwoQ cache size     4GiB,         45822733 req, miss ratio 0.1017, throughput 2.30 MQPS
+
+../data/IBMObjectStoreTrace000Part0 TwoQ cache size     8GiB,         45822733 req, miss ratio 0.0969, throughput 2.28 MQPS
+
+../data/IBMObjectStoreTrace000Part0 TwoQ cache size    12GiB,         45822733 req, miss ratio 0.0937, throughput 2.31 MQPS
+
+../data/IBMObjectStoreTrace000Part0 TwoQ cache size    16GiB,         45822733 req, miss ratio 0.0913, throughput 2.30 MQPS
+
+../data/IBMObjectStoreTrace000Part0 TwoQ cache size    24GiB,         45822733 req, miss ratio 0.0872, throughput 2.26 MQPS
+
+../data/IBMObjectStoreTrace000Part0 TwoQ cache size    32GiB,         45822733 req, miss ratio 0.0841, throughput 2.24 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LeCaR cache size     1GiB,         45822733 req, miss ratio 0.1109, throughput 2.12 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LeCaR cache size     2GiB,         45822733 req, miss ratio 0.1057, throughput 2.12 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LeCaR cache size     4GiB,         45822733 req, miss ratio 0.1007, throughput 2.14 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LeCaR cache size     8GiB,         45822733 req, miss ratio 0.0954, throughput 2.14 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LeCaR cache size    12GiB,         45822733 req, miss ratio 0.0928, throughput 2.12 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LeCaR cache size    16GiB,         45822733 req, miss ratio 0.0911, throughput 2.14 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LeCaR cache size    24GiB,         45822733 req, miss ratio 0.0893, throughput 2.16 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LeCaR cache size    32GiB,         45822733 req, miss ratio 0.0884, throughput 2.16 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Cacheus cache size     1GiB,         45822733 req, miss ratio 0.1119, throughput 1.79 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Cacheus cache size     2GiB,         45822733 req, miss ratio 0.1064, throughput 1.79 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Cacheus cache size     4GiB,         45822733 req, miss ratio 0.1016, throughput 1.79 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Cacheus cache size     8GiB,         45822733 req, miss ratio 0.0966, throughput 1.82 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Cacheus cache size    12GiB,         45822733 req, miss ratio 0.0933, throughput 1.80 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Cacheus cache size    16GiB,         45822733 req, miss ratio 0.0914, throughput 1.81 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Cacheus cache size    24GiB,         45822733 req, miss ratio 0.0895, throughput 1.79 MQPS
+
+../data/IBMObjectStoreTrace000Part0 Cacheus cache size    32GiB,         45822733 req, miss ratio 0.0883, throughput 1.80 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LHD cache size     1GiB,         45822733 req, miss ratio 0.1034, throughput 2.05 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LHD cache size     2GiB,         45822733 req, miss ratio 0.0992, throughput 2.02 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LHD cache size     4GiB,         45822733 req, miss ratio 0.0943, throughput 2.03 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LHD cache size     8GiB,         45822733 req, miss ratio 0.0817, throughput 2.02 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LHD cache size    12GiB,         45822733 req, miss ratio 0.0736, throughput 2.00 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LHD cache size    16GiB,         45822733 req, miss ratio 0.0695, throughput 2.04 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LHD cache size    24GiB,         45822733 req, miss ratio 0.0623, throughput 2.06 MQPS
+
+../data/IBMObjectStoreTrace000Part0 LHD cache size    32GiB,         45822733 req, miss ratio 0.0549, throughput 2.07 MQPS
+
+../data/IBMObjectStoreTrace000Part0 GLCache cache size     1GiB,         45822733 req, miss ratio 0.1053, throughput 1.29 MQPS
+
+../data/IBMObjectStoreTrace000Part0 GLCache cache size     2GiB,         45822733 req, miss ratio 0.0983, throughput 1.27 MQPS
+
+../data/IBMObjectStoreTrace000Part0 GLCache cache size     4GiB,         45822733 req, miss ratio 0.0874, throughput 1.26 MQPS
+
+../data/IBMObjectStoreTrace000Part0 GLCache cache size     8GiB,         45822733 req, miss ratio 0.0790, throughput 1.19 MQPS
+
+../data/IBMObjectStoreTrace000Part0 GLCache cache size    12GiB,         45822733 req, miss ratio 0.0729, throughput 1.04 MQPS
+
+../data/IBMObjectStoreTrace000Part0 GLCache cache size    16GiB,         45822733 req, miss ratio 0.0645, throughput 1.02 MQPS
+
+../data/IBMObjectStoreTrace000Part0 GLCache cache size    24GiB,         45822733 req, miss ratio 0.0612, throughput 0.95 MQPS
+
+../data/IBMObjectStoreTrace000Part0 GLCache cache size    32GiB,         45822733 req, miss ratio 0.0550, throughput 0.92 MQPS

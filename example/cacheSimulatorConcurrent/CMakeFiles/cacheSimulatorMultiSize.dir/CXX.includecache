@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/autodl-tmp/libCacheSim/example/cacheSimulatorConcurrent/main.cpp
+libCacheSim.h
+-
+thread
+-
+

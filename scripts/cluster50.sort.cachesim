@@ -1,0 +1,20 @@
+../data/cluster50.sort LRU cache size    24GiB,        107339071 req, miss ratio 0.1598, throughput 1.61 MQPS
+
+../data/cluster50.sort GLCache cache size    24GiB,        107339071 req, miss ratio 0.1471, throughput 1.56 MQPS
+
+../data/cluster50.sort FIFO cache size    24GiB,        107339071 req, miss ratio 0.1907, throughput 1.73 MQPS
+
+../data/cluster50.sort LRU cache size    24GiB,        107339071 req, miss ratio 0.1598, throughput 1.63 MQPS
+
+../data/cluster50.sort FIFO cache size    24GiB,        107339071 req, miss ratio 0.1907, throughput 1.74 MQPS
+
+../data/cluster50.sort Clock cache size    24GiB,        107339071 req, miss ratio 0.1602, throughput 1.67 MQPS
+
+../data/cluster50.sort TwoQ cache size    24GiB,        107339071 req, miss ratio 0.1687, throughput 1.46 MQPS
+
+../data/cluster50.sort LeCaR cache size    24GiB,        107339071 req, miss ratio 0.1605, throughput 1.37 MQPS
+
+../data/cluster50.sort Cacheus cache size    24GiB,        107339071 req, miss ratio 0.1693, throughput 0.94 MQPS
+
+../data/cluster50.sort GLCache cache size    24GiB,        107339071 req, miss ratio 0.1471, throughput 1.57 MQPS
+

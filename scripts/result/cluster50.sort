@@ -1,0 +1,4 @@
+result/cluster50.sort                              LRU cache size       24GiB, 50000000 req, miss ratio 0.1615, byte miss ratio 0.1419
+result/cluster50.sort                              LRU cache size       32GiB, 50000000 req, miss ratio 0.1312, byte miss ratio 0.1142
+result/cluster50.sort                          GLCache cache size       24GiB, 50000000 req, miss ratio 0.1494, byte miss ratio 0.1460
+result/cluster50.sort                          GLCache cache size       32GiB, 50000000 req, miss ratio 0.1159, byte miss ratio 0.1116

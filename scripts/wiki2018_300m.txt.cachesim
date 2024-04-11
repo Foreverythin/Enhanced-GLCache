@@ -1,0 +1,8 @@
+../data/wiki2018_300m.txt FIFO cache size     4GiB,         50000000 req, miss ratio 0.5245, throughput 3.23 MQPS
+
+../data/wiki2018_300m.txt LRU cache size     4GiB,         50000000 req, miss ratio 0.4904, throughput 3.17 MQPS
+
+../data/wiki2018_300m.txt FIFO cache size     4GiB,        300000000 req, miss ratio 0.5194, throughput 3.22 MQPS
+
+../data/wiki2018_300m.txt LRU cache size     4GiB,        300000000 req, miss ratio 0.4845, throughput 3.17 MQPS
+

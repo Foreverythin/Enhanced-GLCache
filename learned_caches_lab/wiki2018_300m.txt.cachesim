@@ -1,0 +1,36 @@
+../data/wiki2018_300m.txt LRU cache size     4GiB,        300000000 req, miss ratio 0.4845, throughput 3.23 MQPS
+
+../data/wiki2018_300m.txt LRU cache size    16GiB,        300000000 req, miss ratio 0.3533, throughput 2.92 MQPS
+
+../data/wiki2018_300m.txt LFU cache size     4GiB,        300000000 req, miss ratio 0.3493, throughput 2.34 MQPS
+
+../data/wiki2018_300m.txt LFU cache size    16GiB,        300000000 req, miss ratio 0.2562, throughput 2.21 MQPS
+
+../data/wiki2018_300m.txt FIFO cache size     4GiB,        300000000 req, miss ratio 0.5194, throughput 3.29 MQPS
+
+../data/wiki2018_300m.txt FIFO cache size    16GiB,        300000000 req, miss ratio 0.3947, throughput 3.04 MQPS
+
+../data/wiki2018_300m.txt Clock cache size     4GiB,        300000000 req, miss ratio 0.4718, throughput 3.18 MQPS
+
+../data/wiki2018_300m.txt Clock cache size    16GiB,        300000000 req, miss ratio 0.3392, throughput 2.95 MQPS
+
+../data/wiki2018_300m.txt TwoQ cache size     4GiB,        300000000 req, miss ratio 0.3622, throughput 2.35 MQPS
+
+../data/wiki2018_300m.txt TwoQ cache size    16GiB,        300000000 req, miss ratio 0.2605, throughput 2.20 MQPS
+
+../data/wiki2018_300m.txt LeCaR cache size     4GiB,        300000000 req, miss ratio 0.4286, throughput 2.48 MQPS
+
+../data/wiki2018_300m.txt LeCaR cache size    16GiB,        300000000 req, miss ratio 0.2866, throughput 2.16 MQPS
+
+../data/wiki2018_300m.txt Cacheus cache size     4GiB,        300000000 req, miss ratio 0.3937, throughput 1.34 MQPS
+
+../data/wiki2018_300m.txt Cacheus cache size    16GiB,        300000000 req, miss ratio 0.2838, throughput 1.33 MQPS
+
+../data/wiki2018_300m.txt LHD cache size     4GiB,        300000000 req, miss ratio 0.2762, throughput 0.94 MQPS
+
+../data/wiki2018_300m.txt LHD cache size    16GiB,        300000000 req, miss ratio 0.1615, throughput 1.13 MQPS
+
+../data/wiki2018_300m.txt GLCache cache size     4GiB,        300000000 req, miss ratio 0.3117, throughput 2.06 MQPS
+
+../data/wiki2018_300m.txt GLCache cache size    16GiB,        300000000 req, miss ratio 0.1927, throughput 2.19 MQPS
+

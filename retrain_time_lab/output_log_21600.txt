@@ -1,0 +1,6 @@
+[32m[INFO]  03-18-2024 10:19:44 GLCache.c:201  (tid=139880320030016): GLCache_LEARNED, 16384MB, segment_size 100, training_interval 21600, source 0, rank interval 0.02, merge consecutive segments 1, merge 2 segments
+[0m[32m[INFO]  03-18-2024 10:19:44 cli_parser.c:166  (tid=139880320030016): trace path: ../data/wiki2018_100m.txt, trace_type CSV_TRACE, ofilepath wiki2018_100m.txt.cachesim, 72 threads, warmup -1 sec, total 1 algo x 1 size = 1 caches, glcache, trace-type-params: time-col=1, obj-id-col=2, obj-size-col=3, delimiter= , has-header=false
+[0m../data/wiki2018_100m.txt GLCache cache size    16GiB,        100000000 req, miss ratio 0.1885, throughput 2.41 MQPS
+[32m[INFO]  03-18-2024 10:20:25 GLCache.c:201  (tid=140492576343360): GLCache_LEARNED, 16384MB, segment_size 100, training_interval 21600, source 0, rank interval 0.02, merge consecutive segments 1, merge 2 segments
+[0m[32m[INFO]  03-18-2024 10:20:25 cli_parser.c:166  (tid=140492576343360): trace path: ../data/wiki2019_100m.txt, trace_type CSV_TRACE, ofilepath wiki2019_100m.txt.cachesim, 72 threads, warmup -1 sec, total 1 algo x 1 size = 1 caches, glcache, trace-type-params: time-col=1, obj-id-col=2, obj-size-col=3, delimiter= , has-header=false
+[0m../data/wiki2019_100m.txt GLCache cache size    16GiB,        100000000 req, miss ratio 0.3197, throughput 1.97 MQPS
